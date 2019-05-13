@@ -1,0 +1,6 @@
+indexes:
+- kind: Article
+  properties:
+  - name: tag
+  - name: createdAt
+    direction: desc
